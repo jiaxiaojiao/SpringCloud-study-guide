@@ -10,7 +10,7 @@
 4. 按需求扩展等
 
 目前主流的微服务架构：
-[Spring Cloud](/#Spring Cloud)、Dubbo、API Gateway等
+[Spring Cloud](/#spring-cloud-1)、Dubbo、API Gateway等
 
  
 ## Spring Cloud 
